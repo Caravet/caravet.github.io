@@ -36,7 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 include: ["_pages"]
-repository: Caravet/caravet.github.io
+repository: caravet/caravet.github.io
 defaults:
   # _pages
   - scope:
